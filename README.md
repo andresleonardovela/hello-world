@@ -1,2 +1,4 @@
 # hello-world
-My firsr repository on GitHub
+My first repository on GitHub
+
+I would like to join machine learning and remote sensing.
